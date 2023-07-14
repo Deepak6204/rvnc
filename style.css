@@ -125,6 +125,11 @@ a:hover{
     justify-content: space-evenly;
 }
 
+.back{
+    background: url('./controller\ 2.png') no-repeat;
+    background-size:cover;
+}
+
 .leagues,.scrims{
     display: flex;
     flex-direction: column;
