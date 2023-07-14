@@ -188,8 +188,12 @@ a:hover{
         flex-direction: column-reverse;
     }
 
+    .socials{
+        align-self: center;
+    }
+
     .socials i{
-        font-size: 5rem;
+        font-size: 4rem;
     }
 
     .tournys a{
