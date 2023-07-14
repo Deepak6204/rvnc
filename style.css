@@ -8,7 +8,7 @@ body{
 }
 
 .container{
-    width: 100vw;
+    width: 100%;
 }
 
 .navbar-brand img{
@@ -200,8 +200,8 @@ a:hover{
         margin: 50px auto;
     }
 
-    .scrims h2{
-        font-size: 34px;
+    .scrims h2,.leagues h2{
+        font-size: 20px;
         margin: 10px;
     }
 
